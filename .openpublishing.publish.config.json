@@ -5,15 +5,12 @@
   "docsets_to_publish": [
     {
       "docset_name": "LinkTestFileDocset",
-      "build_source_folder": "Docs/TestFileDocset",
-      "build_output_subfolder": "Docs/TestFileDocset",
+      "build_output_subfolder": "Docs/LinkTestFileDocset",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
+        "Conceptual": "Content"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"

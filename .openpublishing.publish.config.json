@@ -4,8 +4,8 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-            "docset_name": "TestFileDocset",
-            "build_output_subfolder": "Docs/TestFileDocset",
+            "docset_name": "LinkTestFileDocset",
+            "build_output_subfolder": "Docs/LinkTestFileDocset",
             "locale": "en-us",
             "version": 0,
             "open_to_public_contributors": "false",

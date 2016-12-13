@@ -15,6 +15,6 @@
 
 | | CAPS MSDN | OPS MSDN | CAPS TechNet | OPS TechNet | Azure | Docs |
 |--|--|--|--|--|--|--|
-| **UnvaildInternalLink** | UnPublishable | Published as text | UnPublishable | OK | ? | OK |
-| **UnvaildInternalBookMark** | Published as text | OK | Published as text | OK | ? | OK |
+| **UnvaildInternalLink** | UnPublishable | Published as text | UnPublishable | OK | OK | OK |
+| **UnvaildInternalBookMark** | Published as text | OK | Published as text | OK | OK | OK |
   

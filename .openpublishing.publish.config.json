@@ -13,9 +13,7 @@
                 "Conceptual": "Content"
             }
         }],
-  "notification_subscribers": [
-    "v-yichen@microsoft.com"
-  ],
+  "notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "",
   "skip_source_output_uploading": false,
